@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Car', 'dog', 'person']
+
+roboflow:
+  workspace: human-b7vnx
+  project: thermal-object-detection-o92p3
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/human-b7vnx/thermal-object-detection-o92p3/dataset/2

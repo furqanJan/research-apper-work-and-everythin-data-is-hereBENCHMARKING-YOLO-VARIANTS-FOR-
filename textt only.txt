@@ -1,0 +1,89 @@
+ i am share you some results  and also 3 classes so you will tell me about this and give me its result in pdf so then i will download this 
+all the models before augmentation means i did not do augmentation
+ yolov5
+f1 score 81
+pr curve 
+car 83
+dog 63
+person82
+
+ yolov8
+f1 score 72 
+pr curve 
+car 88
+dog 57
+person85
+
+ yolov 9
+f1 score 72 
+pr curve 
+car 88
+dog 57
+person85
+
+ yolov 10
+f1 score 66 
+pr curve 
+car 86
+dog 42
+person 81
+
+ yolov 11
+f1 score 76 
+pr curve 
+car 91
+dog 53
+person88
+
+ yolov 12
+f1 score 61
+pr curve 
+car 80
+dog 27
+person 79
+
+the other results which have dta augmentation 
+i am writing this 
+ yolovv5
+f1 score 73 
+pr curve 
+car 86
+dog 58
+person77
+
+ yolov 8 
+f1 score 86
+pr curve 
+car 92
+dog 75
+person 87
+
+ yolov 9
+f1 score 76 
+pr curve 
+car 85
+dog 72
+person 77
+
+ yolov 10
+f1 score 70
+pr curve 
+car 83
+dog  50 
+person 76
+
+ yolov 11
+f1 score 79 
+pr curve 
+car 91
+dog 64
+person 85
+
+ yolov 12 
+f1 score  60 
+pr curve 
+car 80
+dog 44
+person 74
+these are all the result after data augmentation 
+i also want to  write thesis on it

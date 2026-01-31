@@ -1,0 +1,51 @@
+[1] D. Bhabad, S. Kadam, T. Malode, G. Shinde, and D. Bage, “Object Detection for Night Vision using Deep Learning Algorithms,” Dept. of Computer Engineering, K.K. Wagh Institute of Engineering Education and Research, Nashik, Maharashtra, India, received Jan. 12, 2023; revised Feb. 13, 2023; accepted Feb. 23, 2023; published Feb. 28, 2023.
+
+[2] J. Redmon, S. Divvala, R. Girshick, and A. Farhadi, “You Only Look Once: Unified, Real-Time Object Detection,” arXiv preprint arXiv:1506.02640, May 2016. [Online]. Available: https://doi.org/10.48550/arXiv.1506.02640
+
+[3] J. Terven and D. Cordova-Esparza, “A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NAS,” Mach. Learn. Knowl. Extr., vol. 5, pp. 1680–1716, 2023. [Online]. Available: https://doi.org/10.48550/arXiv.2304.00501
+
+[4] K. Choudhary et al., “Recent advances and applications of deep learning methods in materials science,” npj Comput. Mater., vol. 8, no. 59, Apr. 2022. [Online]. Available: https://doi.org/10.1038/s41524-022-00745-x
+
+[5] L. Zhang and Y. Hu, “A fine-tuning approach research of pre-trained model with two stage,” in Proc. 2021 IEEE Int. Conf. Power Electron., Comput. Appl. (ICPECA), Shenyang, China, Jan. 2021, pp. 6–10, doi: 10.1109/ICPECA51329.2021.9362566.
+
+[6] A. N. Wilson, K. A. Gupta, B. H. Koduru, A. Kumar, A. Jha, and L. R. Cenkeramaddi, “Recent Advances in Thermal Imaging and its Applications Using Machine Learning: A Review,” IEEE Sensors Journal, vol. 23, no. 4, pp. 3395–3407, Feb. 2023, doi: 10.1109/JSEN.2023.3234335.
+
+[7] Y. Cao, X. Niu, and Y. Dou, “Region-based convolutional neural networks for object detection in very high resolution remote sensing images,” in Proc. 2016 12th Int. Conf. Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD), Changsha, China, Aug. 2016, pp. –, doi: 10.1109/FSKD.2016.7603232.
+
+[8] L. Alzubaidi et al., “Review of deep learning: Concepts, CNN architectures, challenges, applications, future directions,” J. Big Data, vol. 8, no. 1
+
+[9] R. Girshick, "Fast R-CNN," 2015 IEEE International Conference on Computer Vision (ICCV), Santiago, Chile, 2015, pp. 1440–1448, doi: 10.1109/ICCV.2015.169.
+
+[10] S. Ren, K. He, R. Girshick, and J. Sun, "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks," in Advances in Neural Information Processing Systems (NeurIPS), vol. 28, 2015. [Online]. Available: https://proceedings.neurips.cc/paper_files/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf
+
+[11] W. Liu, D. Anguelov, D. Erhan, C. Szegedy, S. Reed, C.-Y. Fu, and A. C. Berg, "SSD: Single Shot MultiBox Detector," arXiv preprint arXiv:1512.02325, Dec. 2015. [Online]. Available: https://github.com/weiliu89/caffe/tree/ssd
+
+[12] R. Del Prete, M. D. Graziano, and A. Renga, "RetinaNet: A deep learning architecture to achieve a robust wake detector in SAR images," in Proc. 2021 IEEE 6th Int. Forum on Research and Technology for Society and Industry (RTSI), Naples, Italy, Sep. 2021, pp. 1–6, doi: 10.1109/RTSI50628.2021.9597297.
+
+[13] J. Redmon, S. Divvala, R. Girshick, and A. Farhadi, "You Only Look Once: Unified, Real-Time Object Detection," in Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR), Las Vegas, NV, USA, Jun. 2016, pp. 779–788. [Online]. Available: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf
+
+[14] X. Zhang, Z. Qiu, P. Huang, J. Hu, and J. Luo, "Application Research of YOLO v2 Combined with Color Identification," in Proc. 2018 Int. Conf. Cyber-Enabled Distributed Comput. Knowl. Discov. (CyberC), Zhengzhou, China, Oct. 2018, pp. 118–123, doi: 10.1109/CyberC.2018.00036.
+
+[15] J. Redmon and A. Farhadi, "YOLOv3: An Incremental Improvement," arXiv preprint arXiv:1804.02767, Apr. 2018. [Online]. Available: https://doi.org/10.48550/arXiv.1804.02767
+
+[16] A. Bochkovskiy, C.-Y. Wang, and H.-Y. M. Liao, "YOLOv4: Optimal Speed and Accuracy of Object Detection," arXiv preprint arXiv:2004.10934, Apr. 2020. [Online]. Available: https://doi.org/10.48550/arXiv.2004.10934
+
+[17] M. Karthi, V. Muthulakshmi, R. Priscilla, P. Praveen, and K. Vanisri, "Evolution of YOLO-V5 Algorithm for Object Detection: Automated Detection of Library Books and Performance Validation of Dataset," in Proc. 2021 Int. Conf. Innovative Computing, Intelligent Communication and Smart Electrical Systems (ICSES), Chennai, India, Sep. 2021, pp. 1–6, doi: 10.1109/ICSES52305.2021.9633834.
+
+[18] C. Li et al., "YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications," arXiv preprint arXiv:2209.02976, Sep. 2022. [Online]. Available: https://doi.org/10.48550/arXiv.2209.02976
+
+[19] C.-Y. Wang, A. Bochkovskiy, and H.-Y. M. Liao, "YOLOv7: Trainable Bag-of-Freebies Sets New State-of-the-Art for Real-Time Object Detectors," in Proc. IEEE/CVF Conf. Comput. Vis. Pattern Recognit. (CVPR), Vancouver, BC, Canada, Jun. 2023, pp. 7000–7009. doi: 10.1109/CVPR52729.2023.00721
+
+[20] D. Reis, J. Kupec, J. Hong, and A. Daoudi, “Real-Time Flying Object Detection with YOLOv8,” arXiv preprint arXiv:2305.09972, May 2023. [Online]. Available: https://doi.org/10.48550/arXiv.2305.09972
+
+[21] C.-Y. Wang, I.-H. Yeh, and H.-Y. M. Liao, “YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information,” arXiv preprint arXiv:2402.13616, Feb. 2024. [Online]. Available: https://doi.org/10.48550/arXiv.2402.13616
+
+[22] A. Wang, H. Chen, L. Liu, K. Chen, Z. Lin, J. Han, and G. Ding, “YOLOv10: Real-Time End-to-End Object Detection,” arXiv preprint arXiv:2405.14458, May 2024. [Online]. Available: https://doi.org/10.48550/arXiv.2405.14458
+
+[23] R. Khanam and M. Hussain, “YOLOv11: An Overview of the Key Architectural Enhancements,” arXiv preprint arXiv:2410.17725, Oct. 2024. [Online]. Available: https://doi.org/10.48550/arXiv.2410.17725
+
+
+[24] Y. Tian, Q. Ye, and D. Doermann, “YOLOv12: Attention-Centric Real-Time Object Detectors,” arXiv preprint arXiv:2502.12524, Feb. 2025. [Online]. Available: https://doi.org/10.48550/arXiv.2502.12524
+
+[25] R. Á. Brătulescu, S.-A. Mitroi, R.-I. Vătășoiu, M.-C. Voichin, and G. Suciu, “Object Detection in Autonomous Vehicles,” Int. J. Sci. Res. (IJSR), vol. 13, no. 10, pp. 546–555, Oct. 2024, doi: 10.21275/SR241005235242.
+
