@@ -1,4 +1,4 @@
-﻿# YOLO Variant Benchmarking for Thermal Images
+# YOLO Variant Benchmarking for Thermal Images
 
 ## Description
 
